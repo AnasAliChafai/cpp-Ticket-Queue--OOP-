@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Anas Ali Chafai. All rights reserved.
+// Contact: anaschafai04gmail.com
+
 #include <iostream>
 #include "clsQueueLine.h"
 
@@ -52,4 +55,5 @@ int main()
 
  
 }
+
 

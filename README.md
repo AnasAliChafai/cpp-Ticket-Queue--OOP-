@@ -8,11 +8,11 @@ Tickets include a unique code, timestamp, and estimated serving time.
 ---
 
 ## Features
-- 📋 **Show Queue Info** → Display total tickets, served clients, and waiting clients.  
-- ➕ **Issue Ticket** → Create a new ticket for the queue.  
-- ❌ **Serve Next Client** → Remove the next client from the queue.  
-- ↔️ **Print Tickets** → Display tickets RTL (newest → oldest) or LTR (oldest → newest).  
-- 💾 **Optional Persistence** → Integrate with timestamp logging (requires `clsDate.h`).
+-  **Show Queue Info** → Display total tickets, served clients, and waiting clients.  
+-  **Issue Ticket** → Create a new ticket for the queue.  
+-  **Serve Next Client** → Remove the next client from the queue.  
+-  **Print Tickets** → Display tickets RTL (newest → oldest) or LTR (oldest → newest).  
+-  **Optional Persistence** → Integrate with timestamp logging (requires `clsDate.h`).
 
 ---
 
